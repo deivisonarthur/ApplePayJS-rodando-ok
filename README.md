@@ -6,6 +6,7 @@ https://github.com/deivisonarthur/apple-pay-decrypt-V2
 https://webkit.org/blog/9167/whats-new-in-the-payment-request-api-for-apple-pay/
 https://github.com/PayU-EMEA/apple-pay/blob/master/examples/decode_token.php
 https://developer.apple.com/documentation/apple_pay_on_the_web/maintaining_your_environment
+https://developer.apple.com/account/resources/identifiers/list/merchant
 
 
 # ApplePayJS
