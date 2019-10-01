@@ -1,3 +1,13 @@
+Links úteis
+
+https://www.npmjs.com/package/apple-pay-decrypt?activeTab=readme
+https://github.com/deivisonarthur/apple-pay-tem-decrypt
+https://github.com/deivisonarthur/apple-pay-decrypt-V2
+https://webkit.org/blog/9167/whats-new-in-the-payment-request-api-for-apple-pay/
+https://github.com/PayU-EMEA/apple-pay/blob/master/examples/decode_token.php
+https://developer.apple.com/documentation/apple_pay_on_the_web/maintaining_your_environment
+
+
 # ApplePayJS
 Working draft of ApplePayJS with php
 
